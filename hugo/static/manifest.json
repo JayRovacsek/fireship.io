@@ -1,7 +1,7 @@
 {
-    "name": "Fireship.io",
-    "short_name": "Fireship.io",
-    "description": "Awesome Content for App Developers",
+    "name": "Newcastle Cyber Security Group",
+    "short_name": "NCSG",
+    "description": "A group to connect people interested in Cybersecurity in the Newcastle/Hunter Australia region",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#2a2e35",
